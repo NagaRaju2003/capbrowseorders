@@ -17,4 +17,4 @@ resources:
 
   - name: sapuidemoorderbrowser-repo-host
     parameters:
-      service-name: sapuidemoorderbrowser-html5-service-dev cccvvv
+      service-name: sapuidemoorderbrowser-html5-service-dev cccvvv111
